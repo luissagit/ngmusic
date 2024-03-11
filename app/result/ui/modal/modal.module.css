@@ -1,0 +1,22 @@
+.modal {
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  z-index: 1000;
+  padding: 0 0 28px;
+  background-color: rgba(28, 28, 45, 0.9);
+}
+
+.searchLabel {
+  /* width: 67px; */
+  height: 24px;
+  /* margin: 9px 61px 31px 12px; */
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.71px;
+  color: #fff;
+}

@@ -1,0 +1,27 @@
+.searchResultFor {
+  width: 119px;
+  height: 16px;
+  margin: 3px 10px 2px 0;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  color: #334155;
+}
+
+.keyword {
+  width: 91px;
+  height: 21px;
+  margin: 0 0 0 10px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.64px;
+  color: #7b34dd;
+}
